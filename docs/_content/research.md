@@ -1,0 +1,16 @@
+---
+layout: page
+title: Research
+heading: Active Space Research
+summary: >-
+  Active Space (aSpace) research centers on connecting <nobr>body-centered</nobr> performative practices with techniques for embodied human-computer interaction, drawing on insights gained from collaborative explorations in dance, music and theatre performance.
+---
+<div class="jumbotron lead pt-3 pb-1 mb-3">
+  {{ page.summary | markdownify }}
+</div>
+
+A primary objective of the aSpace research is investigation of formal issues in mediated performance and installation through transdisciplinary projects. Artistic vision and technical innovation share the spotlight. Activities include the development of real-world performative environments that continuously sense, measure and respond to movement, allowing participants to engage and "play the space" as an instrument. The results of this research are applicable to the performing arts, education, telepresence, rehabilitation medicine, and other areas.
+
+In the performing arts context, we create environments that encourage exploration and experimentation. Often when technology is used in performance, participants can feel that the technology is "happening to them," out of their control. Our approach is to create a setting that allows performers to influence and interact with technical elements in a direct, immediate way. The qualities of this interaction can generate new internal imagery and enhance the performers' motivation, stimulating new forms of interaction between the performers themselves as well as with the technical elements. As dancers, musicians and media artists interact within aSpace environments, the responses and behaviors of the media objects can be construed as mechanisms for communication. The media system itself becomes a message, or a series of messages, an embodied sequence of codes, exchanged among performers and between performers and audience.
+
+In the media installation context, projects built with the aSpace framework can respond directly to visitors and their motion, creating visuals and sounds that influence the ways people move in the space. The resulting movement calls up new sequences of sounds and images, potentially inspiring participants to further improvisational movement explorations. This cycle of interaction is exciting to experience, entertaining to watch, and is adaptable to a wide range of performance, exhibition and workshop settings.

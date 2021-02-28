@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article>
+
+  {%- if page.heading -%}
+  <header>
+    <h2>{{ page.heading | escape }}</h2>
+    <hr />
+  </header>
+  {%- elsif page.title -%}
+  <header>
+    <h2>{{ page.title | escape }}</h2>
+    <hr />
+  </header>
+  {%- endif -%}
+
+  <section>
+    {{ content }}
+  </section>
+
+</article>
