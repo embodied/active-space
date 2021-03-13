@@ -2,7 +2,7 @@
 layout: page
 description: Active Space is an intermedia framework for exploring embodied interaction
 summary: >-
-  Active Space (aSpace) is an intermedia framework for exploring embodied <nobr>human-computer</nobr> interaction through movement and other forms of dynamic expression, often situated in networked performance projects. Our research connects <nobr>body-centered</nobr> practices in dance, music and theatre with innovative methods for expanded media performance, multi-site interactivity and responsive system design.
+  Active Space (aSpace) is an intermedia framework for creating networked performing arts projects that explore embodied <nobr>human-computer</nobr> interaction through movement and other forms of dynamic expression. Our research connects <nobr>body-centered</nobr> practices in dance, music and theatre with innovative methods for expanded media performance, multi-site interactivity and responsive system design.
 ---
 <header>
   <h2>Active Space Intermedia Framework</h2>
