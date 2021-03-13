@@ -1,9 +1,22 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/embodied/active-space.git"
+  },
+  "author": {
+    "name": "John Crawford",
+    "url": "https://jc.embodied.net"
+  },
+  "license": "MIT",
   "dependencies": {
+    "@octokit/request": "^5.4.14",
     "bootstrap": "^4.6.0",
+    "dotenv": "^8.2.0",
     "jquery": "^3.5.1"
   },
   "scripts": {
+    "build-request": "node scripts/build-request.js",
+    "build-status": "node scripts/build-status.js",
     "serve": "bundle exec jekyll serve"
   }
 }

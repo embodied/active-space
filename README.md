@@ -8,5 +8,5 @@ Serve doc pages on local machine for development:
 
 ```
 cd docs
-npm run serve
+yarn serve
 ```
