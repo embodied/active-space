@@ -2,7 +2,7 @@
 layout: page
 description: Active Space is an intermedia software framework for exploring embodied interaction
 summary: >-
-  Active Space (ASpace) is a software framework for creating networked intermedia art. Situated in theatres, galleries and online, ASpace projects explore embodied <nobr>human-computer</nobr> interaction through movement and other forms of dynamic expression. Our research connects <nobr>body-centered</nobr> artistic practices with transdisciplinary methods for expanded media performance, multi-site interactivity and responsive system design.
+  Active Space (ASpace) is a software framework for creating networked intermedia art. Situated in theatres, galleries and online, our ASpace projects explore embodied <nobr>human-computer</nobr> interaction through movement and other forms of dynamic expression. Our research connects <nobr>body-centered</nobr> artistic practices with transdisciplinary methods for expanded media performance, multi-site interactivity and responsive system design.
 ---
 <header>
   <h2>Active Space Intermedia Framework</h2>
