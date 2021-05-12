@@ -12,7 +12,7 @@ summary: >-
   <div class="card-body">
     <h5 class="card-title">Current Version</h5>
     <p class="card-text">The latest version of the desktop app is <strong>{{ site.github.latest_release.name }}</strong>. It was released on {{ site.github.latest_release.published_at | date: "%B %d, %Y" }}.</p>
-    <a href="{{ site.github.latest_release.assets[0].browser_download_url  }}" class="btn btn-lg btn-primary">DOWNLOAD</a>
+    <a href="{{ site.github.latest_release.html_url  }}" class="btn btn-lg btn-primary">DOWNLOAD</a>
   </div>
 </div>
 <hr />
